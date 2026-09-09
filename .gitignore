@@ -1,0 +1,40 @@
+# Setup files
+*.exe
+*.msi
+*.zip
+*.rar
+*.iso
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Config
+*.json
+*.cfg
+*.ini
+*.env
+
+# Business data
+*.db
+*.sqlite
+*.sqlite3
+*.business
+*.data
+*.backup
+*.report
+*.invoice
